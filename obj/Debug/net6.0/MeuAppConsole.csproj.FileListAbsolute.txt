@@ -1,0 +1,15 @@
+C:\dev\MeuAppConsole\bin\Debug\net6.0\MeuAppConsole.exe
+C:\dev\MeuAppConsole\bin\Debug\net6.0\MeuAppConsole.deps.json
+C:\dev\MeuAppConsole\bin\Debug\net6.0\MeuAppConsole.runtimeconfig.json
+C:\dev\MeuAppConsole\bin\Debug\net6.0\MeuAppConsole.dll
+C:\dev\MeuAppConsole\bin\Debug\net6.0\MeuAppConsole.pdb
+C:\dev\MeuAppConsole\obj\Debug\net6.0\MeuAppConsole.csproj.AssemblyReference.cache
+C:\dev\MeuAppConsole\obj\Debug\net6.0\MeuAppConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\MeuAppConsole\obj\Debug\net6.0\MeuAppConsole.AssemblyInfoInputs.cache
+C:\dev\MeuAppConsole\obj\Debug\net6.0\MeuAppConsole.AssemblyInfo.cs
+C:\dev\MeuAppConsole\obj\Debug\net6.0\MeuAppConsole.csproj.CoreCompileInputs.cache
+C:\dev\MeuAppConsole\obj\Debug\net6.0\MeuAppConsole.dll
+C:\dev\MeuAppConsole\obj\Debug\net6.0\refint\MeuAppConsole.dll
+C:\dev\MeuAppConsole\obj\Debug\net6.0\MeuAppConsole.pdb
+C:\dev\MeuAppConsole\obj\Debug\net6.0\MeuAppConsole.genruntimeconfig.cache
+C:\dev\MeuAppConsole\obj\Debug\net6.0\ref\MeuAppConsole.dll
